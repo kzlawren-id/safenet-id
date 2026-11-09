@@ -1,0 +1,26 @@
+SAFENET ID — PAKET WEBSITE + E-BOOK
+
+ISI FOLDER
+- index.html : file utama website
+- ebooks/kenali-phishing.pdf : panduan utama mengenali penipuan online
+- ebooks/aman-bertransaksi.pdf : panduan transaksi online
+- ebooks/lindungi-akun.pdf : panduan perlindungan akun digital
+
+CARA MEMBUKA DI LAPTOP
+1. Ekstrak file ZIP ini.
+2. Pastikan index.html dan folder ebooks berada di dalam folder yang sama.
+3. Klik dua kali index.html untuk membuka website di browser.
+4. Buka bagian E-Book. Tombol Buka PDF dan Unduh akan menggunakan file di folder ebooks.
+
+PENTING UNTUK GITHUB PAGES
+1. Buat repository GitHub, misalnya safenet-id.
+2. Upload index.html dan folder ebooks (beserta ketiga PDF di dalamnya).
+3. Buka Settings > Pages.
+4. Pada Build and deployment, pilih Deploy from a branch.
+5. Pilih branch main dan folder /(root), lalu Save.
+6. Tunggu proses publikasi selesai. Link biasanya berbentuk https://USERNAME.github.io/safenet-id/
+
+CATATAN
+- Jangan mengunggah index.html saja. Folder ebooks juga wajib diunggah agar tombol PDF bekerja.
+- Teks kasus chat adalah simulasi edukasi, bukan percakapan korban asli.
+- Uji semua tautan setelah website dipublikasikan.
